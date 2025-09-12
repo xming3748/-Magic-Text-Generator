@@ -1,3 +1,6 @@
+---
+**语言选择 / Language Choice**: [English](./README.en.md)
+
 # Magic Text Generator / 魔法文本生成器
 
 这是一个由AI辅助开发的趣味小工具，可以生成带有特殊Unicode控制字符的文本，在QQ等聊天软件中产生文字错位显示的趣味效果。
