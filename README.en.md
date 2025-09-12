@@ -1,3 +1,6 @@
+---
+**Language Choice / 语言选择**: [中文](./README.md)
+
 # Magic Text Generator
 
 This is a fun little tool developed with AI assistance that generates text with special Unicode control characters, creating interesting text displacement effects in chat applications like QQ.
