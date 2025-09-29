@@ -1,5 +1,7 @@
 # Disclaimer
 
+[Chinese/中文](/docs/免责声明Disclaimer/Disclaimer.md)
+
 ## Important Notice
 
 Before using **Magic Text Generator** (hereinafter referred to as "the Tool"), please read all terms carefully.
