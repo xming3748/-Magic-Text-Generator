@@ -5,6 +5,8 @@
 
 This is a fun little tool developed with AI assistance that generates text with special Unicode control characters, creating interesting text displacement effects in chat applications like QQ.
 
+[**Use the relevant provisions of the Disclaimer to voluntarily assume responsibility**](/docs/免责声明Disclaimer/Disclaimer.md)
+
 ## Version Information
 
 - **Full Version:** V0.3.0 (Beta)
