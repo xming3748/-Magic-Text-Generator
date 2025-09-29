@@ -9,7 +9,7 @@
 ## 版本信息
 - **正式版**: V0.3.0 (测试版)
 - **简化版**: S1.0.0
-- **作者**: Cove Studio - 小铭xming制作，ppjdeyouliu测试
+- **作者**: Cove Studio - 小铭xming制作，ppj的游柳测试
 - **版权**: © 2025 小铭xming & Cove Studio. 保留所有权利。
 
 ## 版本区别
