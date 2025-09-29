@@ -1,6 +1,6 @@
 # Disclaimer
 
-[Chinese/中文](/docs/免责声明Disclaimer/Disclaimer.md)
+[**Chinese**/中文](/docs/免责声明Disclaimer/免责声明.md)
 
 ## Important Notice
 
